@@ -1,4 +1,8 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+# DINESH R
+
+# 212224240037
+
+### EXP.NO:3 ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
