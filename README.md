@@ -2,7 +2,7 @@
 
 # 212224240037
 
-### EXP.NO:4 ENCODER 8TO3 DATAFLOW Modelling
+### EXP.NO:5 ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
